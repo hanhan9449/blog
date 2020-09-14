@@ -3,10 +3,10 @@
   "url": "https://blog.yucun.fun",
   "domain": "yucun.fun",
   "description": "Han Han's Blog",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me",
+  "genre": "blog",
+  "googleAnalyticsId": "G-RRQ6ZF3KNM",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "blog",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://update-me.com"
