@@ -4,3 +4,6 @@ node_modules/
 js/min.js
 js/min.js.map
 .vscode/
+.idea
+yarn.lock
+package-lock.json
